@@ -6,7 +6,7 @@ Using Yelp reviews to detect health code violations
 This is very much a work in progress right now.
 
 RESEARCH TEAM:
-Oliver Haimson (ohaimson@uci.edu), Department of Informatics, UC Irvine
+Oliver Haimson (ohaimson@uci.edu), Department of Informatics, UC Irvine;
 John Schomberg, Department of Epidemiology, UC Irvine
 
 PROBLEM: 
